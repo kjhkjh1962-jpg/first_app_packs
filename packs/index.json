@@ -1,0 +1,14 @@
+{
+  "packs": [
+    {
+      "packId": "bio_genetics_v1",
+      "subjectId": "bio",
+      "topicId": "bio_genetics",
+      "titleAr": "الوراثة",
+      "version": 1,
+      "sizeKb": 180,
+      "youtubeUrl": "https://www.youtube.com/watch?v=XXXX",
+      "url": "https://raw.githubusercontent.com/kjhjh1962-jpg/first_app_packs/main/packs/bio_genetics_v1.json"
+    }
+  ]
+}
